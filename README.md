@@ -28,6 +28,14 @@ Secondly, we utilize the Google Maps API to cleverly match a store with our resu
 - Queried the data needed for the given store
 - Displayed the information retrieved on the front-end
 
+### Built With
+
+* [![tensorflow][tensorflow]][tensorflow-url]
+* [![reactjs][reactjs]][reactjs-url]
+* [![Python][Python]][Python-url]
+* [![javascript][javascript]][javascript-url]
+* [![googlecloud][googlecloud]][googlecloud-url]
+
 ## Challenges we ran into
 - Creating the dataset proved to be difficult and time-consuming, as finding relevant and good pictures was challenging
 - Tuning the DNN to match the required accuracy results needed
@@ -53,3 +61,15 @@ Creating NearbyNow, we learned how powerful APIs can be, as well as the complexi
 
 ## What's next for NearbyNow
 A lot of improvements and additions can be made to gain more accurate results and have more relevant information displayed when scanning a storefront. Eventually, we would like to add more detailed reviews of businesses, be able to detect traffic in the area and be able to recognize and display important historic buildings and monuments.
+
+
+[tensorflow]: https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=yellow
+[tensorflow-url]: https://www.tensorflow.org/
+[reactjs]: https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=blue
+[reactjs-url]: https://reactjs.org/
+[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=orange
+[Python-url]: https://www.python.org/
+[javascript]: https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow
+[javascript-url]: https://www.javascript.com/
+[googlecloud]: https://img.shields.io/badge/googlecloud-000000?style=for-the-badge&logo=googlecloud&logoColor=green
+[googlecloud-url]: https://cloud.google.com/
