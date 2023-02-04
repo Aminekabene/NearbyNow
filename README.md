@@ -1,3 +1,6 @@
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ## Inspiration
 Our inspiration for the project was based on augmented reality glasses, where we imagined ourselves looking at stores and automatically getting all the relevant information from them. Since we didn't have access to augmented reality glasses, we decided to use our phones to accomplish the same task.
 
@@ -62,6 +65,10 @@ Creating NearbyNow, we learned how powerful APIs can be, as well as the complexi
 ## What's next for NearbyNow
 A lot of improvements and additions can be made to gain more accurate results and have more relevant information displayed when scanning a storefront. Eventually, we would like to add more detailed reviews of businesses, be able to detect traffic in the area and be able to recognize and display important historic buildings and monuments.
 
+[license-shield]: https://img.shields.io/github/license/aminekabene/NearbyNow.svg?style=for-the-badge
+[license-url]: https://github.com/Aminekabene/NearbyNow/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/amine-kabene/
 
 [tensorflow]: https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=yellow
 [tensorflow-url]: https://www.tensorflow.org/
