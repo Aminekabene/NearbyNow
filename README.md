@@ -1,6 +1,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+## Demo
+https://user-images.githubusercontent.com/76407228/216791860-90430466-e84f-4cf2-a573-7d156b9346db.mp4
+
 ## Inspiration
 Our inspiration for the project was based on augmented reality glasses, where we imagined ourselves looking at stores and automatically getting all the relevant information from them. Since we didn't have access to augmented reality glasses, we decided to use our phones to accomplish the same task.
 
